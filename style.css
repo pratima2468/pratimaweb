@@ -1,0 +1,47 @@
+body{
+	margin: 2;
+	background-color: pink;
+}
+header{
+	background-color:lavender;
+	padding: 10px;
+	text-align: center;
+	color: black;
+	font-family:monospace ;
+
+}
+
+nav{
+	overflow: hidden;
+	background-color: #4456;
+}
+nav a{
+	float: left;
+	color: black;
+	padding: 10px;
+}
+nav a:hover{
+	background-color: black;
+	color: white;
+}
+.column{
+	float: left;
+	padding: 10px;
+	
+}
+
+
+
+p{
+	color: purple;
+	padding: 10px;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	color: red;
+}
+
+
+
+
